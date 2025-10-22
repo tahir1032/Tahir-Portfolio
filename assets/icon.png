@@ -1,0 +1,9 @@
+# This is a placeholder for the application icon
+# Please replace this file with a proper PNG icon (512x512 pixels recommended)
+# For production builds, you'll also need:
+# - icon.ico (for Windows)
+# - icon.icns (for macOS)
+
+You can create these from a PNG using online converters or tools like:
+- https://convertio.co/png-ico/
+- https://convertio.co/png-icns/
